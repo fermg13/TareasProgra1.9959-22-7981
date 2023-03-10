@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678399561 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\primer parcial\ligas\src\ligase.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<string.h>
+	"LigasE.h"
+
+1678399630 c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\primer parcial\ligas\include\ligase.h
+
+1678399630 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\primer parcial\ligas\main.cpp
+	<iostream>
+	"LigasE.h"
+
