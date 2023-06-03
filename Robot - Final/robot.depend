@@ -151,3 +151,33 @@
 	<iostream>
 	<fstream>
 
+1685720103 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\robot - final\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1685720103 c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\robot - final\include\player.h
+
+1685720726 c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\robot - final\include\mapcell.h
+
+1685720103 c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\robot - final\include\gamemap.h
+	"mapcell.h"
+	<iostream>
+
+1685669613 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\robot - final\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685720103 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\robot - final\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1685720103 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaci”n i\programas\repositorio\tareasprogra1.9959-22-7981\robot - final\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+

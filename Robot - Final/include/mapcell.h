@@ -18,3 +18,4 @@ class mapcell
 };
 
 #endif // MAPCELL_H
+

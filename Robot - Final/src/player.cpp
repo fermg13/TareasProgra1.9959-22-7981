@@ -95,5 +95,5 @@ void player::drawCreditos()
     {
         cout << "Error FATAL: el archivo de ganador no pudo ser cargado" << endl;
     }
+    return;
 }
-

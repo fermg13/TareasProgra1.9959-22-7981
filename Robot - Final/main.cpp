@@ -1,4 +1,6 @@
 #include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
 #include "player.h"
 #include "mapcell.h"
 #include "gamemap.h"
@@ -10,17 +12,16 @@ int main()
     // Aplicativo elaborado en el curso de Programacion I - Universidad Mariano Galvez
     // desarrollador: daguilae - Marzo 2022
 
-
+    //system("color 2C");
     gamemap map;
     player hero;
-    map.drawPortada();
     //map.draw();
     while(map.isGameOver==false)
     {
       cout << "Introduce comando de movimiento: Arriba: <w> , Izquierda: <a>, Abajo: <s>, Derecha: <d> : <x> --> Salir " << endl;
       hero.callInput();
 
-      //Actualizar información del jugador en el mapa
+      //Actualizar informaciï¿½n del jugador en el mapa
       if(map.setPlayerCell(hero.getValueX(), hero.getValueY()))
       {
      //   system("cls");
@@ -35,6 +36,7 @@ int main()
       //map.draw();
 
     }
-
+    player credito;
+    credito.drawCreditos();
     return 0;
 }
