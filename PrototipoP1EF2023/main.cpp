@@ -5,7 +5,7 @@
 #include<cstdlib>
 #include<conio.h>
 #include<iomanip>
-#include "Usuario.h"
+//#include "Usuario.h"
 
 using namespace std;
 void creditosModulo();
