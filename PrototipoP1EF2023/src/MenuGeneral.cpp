@@ -128,7 +128,7 @@ void MenuGeneral::procesoSTAFF(string n)
         }
     }while(choice!=3);
 }
-void MenuGeneral::infomesSTAFF(string n)
+/*void MenuGeneral::infomesSTAFF(string n)
 {
     nombre = n;
     int choice;
@@ -160,3 +160,4 @@ void MenuGeneral::infomesSTAFF(string n)
         }
     }while(choice!= 3);
 }
+*/
