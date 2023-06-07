@@ -18,12 +18,12 @@ int main()
     {
     system("cls");
     cout<<"\t\t\t-------------------------------"<<endl;
-	cout<<"\t\t\t |   COORPORACIÓN EDUCATIVA   |"<<endl;
+	cout<<"\t\t\t |   COORPORACION EDUCATIVA   |"<<endl;
 	cout<<"\t\t\t-------------------------------"<<endl;
     cout<< " ";
     cout<<"\t\t\t Seleccionar usuario "<<endl;
-    cout<<"\t\t\t 1). Login Administración "<<endl;
-	cout<<"\t\t\t 2). Login Alumnos "<<endl;
+    cout<<"\t\t\t 1). Administracion "<<endl;
+	cout<<"\t\t\t 2). Usuarios "<<endl;
 	cout<<"\t\t\t 3). Salir del Sistema"<<endl;
 	cout<<"\t\t\t-------------------------------"<<endl;
 	cout<< " "<<endl;
@@ -50,3 +50,4 @@ int main()
 
     return 0;
 }
+
